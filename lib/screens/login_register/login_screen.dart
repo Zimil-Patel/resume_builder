@@ -29,7 +29,7 @@ class _LoginScreenState extends State<LoginScreen> {
     width = MediaQuery.of(context).size.width;
 
     return Scaffold(
-      backgroundColor: Colors.black54,
+      backgroundColor: Colors.black,
       //appbar
       appBar: AppBar(
         backgroundColor: Colors.black,
